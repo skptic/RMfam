@@ -13,6 +13,8 @@
 #=GF RT   A structural module in RNase P expands the variety of RNA kinks.
 #=GF RA   Meyer M, Westhof E, Masquida B
 #=GF RL   RNA Biol. 2012;9.
+#=GF TP   Internal Loop
+#=GF WK   Internal_loop
 
 
 Solibacter_usitatus_.1  AGGGG..A.GGAGGG....................................................GCGGCCCGUCC....CGCUU........GACU...UC.C.

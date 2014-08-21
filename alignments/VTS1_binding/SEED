@@ -29,6 +29,8 @@
 #=GF RT   Shape-specific recognition in the structure of the Vts1p SAM domain with RNA.
 #=GF RA   Oberstrass FC, Lee A, Stefl R, Janis M, Chanfreau G, Allain FH
 #=GF RL   Nat Struct Mol Biol. 2006;13:160-7.
+#=GF TP   Stem Loop
+#=GF WK   Stem-loop
 
 2b6g_B/1-19                  .......g.G.AGGCUCUGGC.AGCU..UUC......
 #=GR 2b6g_B/1-19 SS          .......(.(.((((((..)..))))..)))......

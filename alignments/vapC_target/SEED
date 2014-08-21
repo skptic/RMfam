@@ -11,6 +11,8 @@
 #=GF RT   A VapBC Toxin-Antitoxin Module is a Post-Transcriptional Regulator of Metabolic Flux in Mycobacteria.
 #=GF RA   McKenzie JL, Robson J, Berney M, Smith TC, Ruthe A, Gardner PP, Arcus VL, Cook GM
 #=GF RL   J Bacteriol. 2012;
+#=GF WK   Internal_loop
+#=GF TP   Internal Loop
 
 CP000480.1/2202608-2202766            AUAAG..CGUAU.GGU.CCAGA.UCACAUU......................CGACAUUAU....CGA..............................AUGU.CAUCC..GACAUUACCGUGAU
 CP000480.1/2199363-2199403            AUAU-..-UCG-..GC..--AC.GGUC-...........................ACAGAC....CCC..............................C.GA.-CGU-...GC-.CGGACGCCG

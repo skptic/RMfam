@@ -1,6 +1,7 @@
 # STOCKHOLM 1.0
 
 #=GF ID   C-loop
+#=GF DE   C-loop motif
 #=GF AU   Gardner PP
 #=GF SE   Gardner PP
 #=GF SS   Published; PMID:21976732
@@ -29,6 +30,8 @@
 #=GF RT   Sequence-based identification of 3D structural modules in RNA with RMDetect.
 #=GF RA   Cruz JA, Westhof E
 #=GF RL   Nat Methods. 2011;8:513-21.
+#=GF WK   Internal_loop
+#=GF TP   Internal Loop
 
 2gya_0/2535-2588          ...........CG.CAU.C.ACUGGU.......GUUCGGGUUGUCAGCCAUGGCACUGCCCGGUA.........GCUAA...AUGCG...............
 #=GR 2gya_0/2535-2588 SS  ...............((.....((((..........(((((.((((....))))...)))))............))))....))..................

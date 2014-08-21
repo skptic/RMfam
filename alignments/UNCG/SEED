@@ -31,6 +31,9 @@
 #=GF RT   Unusual nucleotide conformations in GNRA and UNCG type tetraloop hairpins: evidence from Raman markers assignments.
 #=GF RA   Leulliot N, Baumruk V, Abdelkafi M, Turpin PY, Namane A, Gouyette C, Huynh-Dinh T, Ghomi M
 #=GF RL   Nucleic Acids Res. 1999;27:1398-404.
+#=GF TP   Stem Loop
+#=GF WK   Tetraloop
+
 
 1I6U/16-21              GGGCCCGGUA.AGU.......CUCUUCGGAG......AUACUGCCGGGCCC
 #=GR 1I6U/16-21 SS      ((((((((((..((.......(((....)))......))..))))))))))

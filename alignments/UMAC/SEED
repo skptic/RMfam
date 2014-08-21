@@ -18,6 +18,8 @@
 #=GF RT   The comparative RNA web (CRW) site: an online database of comparative sequence and structure information for ribosomal, intron, and other RNAs.
 #=GF RA   Cannone JJ, Subramanian S, Schnare MN, Collett JR, D'Souza LM, Du Y, Feng B, Lin N, Madabusi LV, Müller KM, Pande N, Shang Z, Yu N, Gutell RR
 #=GF RL   BMC Bioinformatics. 2002;3:2.
+#=GF TP   Stem Loop
+#=GF WK   Tetraloop
 
 
 4A4S_A/1-22                                                     GGAC..CCGGCUCACGCUG....GGUCC

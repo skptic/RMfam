@@ -1,7 +1,7 @@
 # STOCKHOLM 1.0
 
 #=GF ID   k-turn-2
-#=GF DE   Kink turn, 5' bulge
+#=GF DE   Kink turn 2, 5' bulge
 #=GF AU   Gardner PP
 #=GF SE   Gardner PP
 #=GF SS   Published; PMID:19528080
@@ -47,6 +47,8 @@
 #=GF RT   Recurrent structural RNA motifs, Isostericity Matrices and sequence alignments.
 #=GF RA   Lescoute A, Leontis NB, Massire C, Westhof E
 #=GF RL   Nucleic Acids Res. 2005;33:2395-409.
+#=GF WK   Internal_loop
+#=GF TP   Internal Loop
 
 1FFK_0/1303-1352          .....CUAAU...UGGAUGGA..AGUAGGGGU......................................GAAAACUCCUAUGGA.CCG...AUUAG..........
 #=GR 1FFK_0/1303-1352 SS  .....(((((...(((........((((((((..........................................))))))))....)))...)))))..........

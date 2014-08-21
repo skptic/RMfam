@@ -27,6 +27,8 @@
 #=GF RT   A thermodynamic study of unusually stable RNA and DNA hairpins.
 #=GF RA   Antao VP, Lai SY, Tinoco I
 #=GF RL   Nucleic Acids Res. 1991;19:5901-5.
+#=GF TP   Stem Loop
+#=GF WK   Tetraloop
 
 1J5E_A/170-207           ...C.CCCAUGUGG........ACCCGCCCCUUGGGGUGUGUCCAAAGGG..
 #=GR 1J5E_A/170-207 SS   ...(.((....(((........((.(((((....))))).)))))..)))..

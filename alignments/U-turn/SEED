@@ -1,7 +1,7 @@
 # STOCKHOLM 1.0
 
 #=GF ID   U-turn
-#=GF DE   U-turn
+#=GF DE   U-turn motif
 #=GF AU   Gardner PP
 #=GF SE   Gardner PP
 #=GF SS   Published; PMID:19528080
@@ -29,6 +29,8 @@
 #=GF RT   Structural domains of transfer RNA molecules.
 #=GF RA   Quigley GJ, Rich A
 #=GF RL   Science. 1976;194:796-806.
+#=GF WK   Stem-loop
+#=GF TP   Stem Loop
 
 1c04_E/37-52             .........GAAA...GCG.UAA.UAGC......UC.......
 #=GR 1c04_E/37-52 SS     .........(..(...((........))......)).......

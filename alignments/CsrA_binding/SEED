@@ -14,6 +14,11 @@
 #=GF DR   RFAM:RF00166
 #=GF DR   RFAM:RF00195
 #=GF DR   RFAM:RF02144
+#=GF DR   URL; http://www.wikipedia.org/wiki/CsrC_RNA_family
+#=GF DR   URL; http://www.wikipedia.org/wiki/RsmB_RNA_family
+#=GF DR   URL; http://www.wikipedia.org/wiki/RsmX
+#=GF DR   URL; http://www.wikipedia.org/wiki/RsmY_RNA_family
+#=GF DR   URL; http://www.wikipedia.org/wiki/RsmZ_RNA_family
 #=GF RN   [1]
 #=GF RM   9211896
 #=GF RT   The RNA molecule CsrB binds to the global regulatory protein CsrA and
@@ -69,11 +74,8 @@
 #=GF RA   Gardner PP, Daub J, Tate J, Moore BL, Osuch IH, Griffiths-Jones
 #=GF RA   S, Finn RD, Nawrocki EP, Kolbe DL, Eddy SR, Bateman A
 #=GF RL   Nucleic Acids Res. 2011;39:D141-5.
-#=GF WK   CsrB/RsmB_RNA_family
-#=GF WK   CsrC_RNA_family
-#=GF WK   RsmX
-#=GF WK   RsmY_RNA_family
-#=GF WK   PrrB/RsmZ_RNA_family
+#=GF TP   Specific Recognition Motif
+#=GF WK   Sequence_motif
 
 Pstali1-1                 ..GG...C..-....-gGGAA....U..G..CU..
 Tselenatis1-1             ..AG...C..-....-uGGAA....U..G..CU..

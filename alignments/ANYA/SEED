@@ -30,6 +30,8 @@
 #=GF RT   U-turns.
 #=GF RA   Klosterman PS, Hendrix DK, Tamura M, Holbrook SR, Brenner SE.
 #=GF RL   Nucleic Acids Res. 2004;32(8):2342-2352.
+#=GF TP   Stem Loop
+#=GF WK   Tetraloop
 
 1D0T_A/1-21         .gGGaUC.aCCaUUaGG.GaUCUC..
 #=GR 1D0T_A/1-21 SS .((((((..((....)).))))))..

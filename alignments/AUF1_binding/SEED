@@ -11,6 +11,8 @@
 #=GF RT   Identification of a signature motif in target mRNAs of RNA-binding protein AUF1.
 #=GF RA   Mazan-Mamczarz K, Kuwano Y, Zhan M, White EJ, Martindale JL, Lal A, Gorospe M
 #=GF RL   Nucleic Acids Res. 2009;37:204-14.
+#=GF TP   Specific Recognition Motif
+#=GF WK   Sequence_motif 
 
 ARHI              UGACAUAUACUAAAUAAAAAAAUGAAUAUGUUGAUCAUU
 SWAP70            UUAUACUGAGUAGUAGAAAGA---AGCUAAUUUGAAAUA

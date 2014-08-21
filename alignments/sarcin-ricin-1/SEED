@@ -27,6 +27,9 @@
 #=GF RT   FR3D: finding local and composite recurrent structural motifs in RNA 3D structures.
 #=GF RA   Sarver M, Zirbel CL, Stombaugh J, Mokdad A, Leontis NB
 #=GF RL   J Math Biol. 2008;56:215-52.
+#=GF WK   Internal_loop
+#=GF TP   Internal Loop
+
 #cWW-cWW-tSH-tHH-cSH-tWH-tHS-cWW
 
 2zkr_0/7-48             GGCGACCCGCUGAAUUUAA....GCA....UAUUAGUCAGCGGAGGAAAA..

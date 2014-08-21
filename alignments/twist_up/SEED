@@ -1,6 +1,7 @@
 # STOCKHOLM 1.0
 
 #=GF ID   twist_up
+#=GF DE   Twist up Motif
 #=GF AU   Gardner PP
 #=GF SE   Gardner PP
 #=GF SS   Published; PMID:21976732
@@ -13,6 +14,8 @@
 #=GF RT   secondary structural alignment.
 #=GF RA   Zhong C, Zhang S
 #=GF RL   Nucleic Acids Res. 2012;40:1307-17.
+#=GF WK   Internal_loop
+#=GF TP   Internal Loop
 
 2zkr_Y/27-46          CCGAUCUCGU.CUGAUCUCGG
 #=GR 2zkr_Y/27-46 SS  <<<<---<_____>--->>>>

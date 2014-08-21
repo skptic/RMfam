@@ -16,6 +16,8 @@
 #=GF RT   Hyper conserved elements in vertebrate mRNA 3'-UTRs reveal a translational network of RNA-binding proteins controlled by HuR.
 #=GF RA   Dassi E, Zuccotti P, Leo S, Provenzani A, Assfalg M, D'Onofrio M, Riva P, Quattrone A
 #=GF RL   Nucleic Acids Res. 2013;
+#=GF TP   Specific Recognition Motif
+#=GF WK   RNA_specific_motif
 
 
 HuR          AUGUAU---UGUUUAUACAU

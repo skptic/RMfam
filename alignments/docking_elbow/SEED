@@ -11,6 +11,8 @@
 #=GF RT   A universal RNA structural motif docking the elbow of tRNA in the ribosome, RNAse P and T-box leaders.
 #=GF RA   Lehmann J, Jossinet F, Gautheret D
 #=GF RL   Nucleic Acids Res. 2013;.
+#=GF TP   Internal Loop
+#=GF WK   Internal_loop
 
 D                              UC---.............CUUACGU...............UCCAGAG.AGCUGAU.............-----------..GGCC......................-------..........GGUGAAA--............................................................AUCAGC...........ACAGACG...........GA
 #=GR D                      SS <<----------------<<<<<<<------------------------<<<<<<____________________________________________________-----_________________________________________________________________________________>>>>>>----------->>>>>>>.....------>>

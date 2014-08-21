@@ -9,6 +9,8 @@
 #=GF DR   GO:0008380 GO:RNA splicing
 #=GF DR   RFAM:RF00026
 #=GF DR   RFAM:RF00029
+#=GF DR   URL; http://www.wikipedia.org/wiki/U6_spliceosomal_RNA
+#=GF DR   URL; http://www.wikipedia.org/wiki/Group_II_intron
 #=GF RN   [1]
 #=GF RM   16428604
 #=GF RT   Structure of a self-splicing group II intron catalytic effector
@@ -20,8 +22,9 @@
 #=GF RT   Role of the snRNAs in spliceosomal active site.
 #=GF RA   Valadkhan S
 #=GF RL   RNA Biol. ;7:345-53.
-#=GF WK   U6_spliceosomal_RNA
+#=GF TP   Stem Loop
 #=GF WK   Group_II_intron
+
 
 EF419774.1/51-82                  UAGC-AUGG-CCCC-U---GCG-CA---A-GG-A-UGACACAUGA
 AAXT01000001.1/1039123-1039154    UAGC-AUGG-CCCC-U---GCG-CA---A-GG-A-UGACACGCUC

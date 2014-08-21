@@ -1,6 +1,7 @@
 # STOCKHOLM 1.0
 
 #=GF ID   UAA_GAN
+#=GF DE   UAA/GAN Internal Loop Motif
 #=GF AU   Gardner PP
 #=GF SE   Gardner PP
 #=GF SS   Published; PMID:16828489
@@ -15,6 +16,8 @@
 #=GF RT   interactions.
 #=GF RA   Lee JC, Gutell RR, Russell R
 #=GF RL   J Mol Biol. 2006;360:978-88.
+#=GF WK   Internal_loop
+#=GF TP   Internal Loop
 
 1NBS_A/5-27               ....CCUAGC.GAA..G---.....---UC--------......---A...UAA-.GCUAGG..
 #=GR 1NBS_A/5-27 SS       ....((((((......(---...........................)......-.))))))..

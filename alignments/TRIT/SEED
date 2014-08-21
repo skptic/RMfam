@@ -13,6 +13,8 @@
 #=GF RT   RNIE: genome-wide prediction of bacterial intrinsic terminators.
 #=GF RA   Gardner PP, Barquist L, Bateman A, Nawrocki EP, Weinberg Z
 #=GF RL   Nucleic Acids Res. 2011;39:5845-52.
+#=GF TP   Stem Loop
+#=GF WK   Intrinsic_termination
 
 
 AE000516/2319508-2319426    AGCCUGAGUACGG.CGAGCAGACGCAGAA.UCGCAUG.CGCGG-GACC.....CC.GCG.CAgUGCGA.UU.CUGCGUCUGCUCG.CGCGGUAGGUU

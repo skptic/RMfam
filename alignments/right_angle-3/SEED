@@ -15,6 +15,8 @@
 #=GF RT   The right angle (RA) motif: a prevalent ribosomal RNA structural pattern found in group I introns.
 #=GF RA   Grabow WW, Zhuang Z, Swank ZN, Shea JE, Jaeger L
 #=GF RL   J Mol Biol. 2012;
+#=GF WK   Internal_loop
+#=GF TP   Internal Loop
 
 2J01/603-682         CAC.GGUCGUGGGC..GAGCUUAAGCCGUUGAGGCGGAGGCGUAGGGAAACCGA...............................GUCCGAACAGGGCGC.............GUCCGCG.GCCGUG
 #=GR 2J01/603-682 SS (((.((((((((((....(((...(((.....)))...)))...((....)).................................((((.....))))...............))))))).))))))

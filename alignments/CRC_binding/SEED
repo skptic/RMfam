@@ -25,7 +25,8 @@
 #=GF RT   Two small RNAs, CrcY and CrcZ, act in concert to sequester the Crc global regulator in Pseudomonas putida, modulating catabolite repression.
 #=GF RA   Moreno R, Fonseca P, Rojo F
 #=GF RL   Mol Microbiol. 2012;83:24-40.
-#=GF WK   CrcZ
+#=GF TP   Specific Recognition Motif 
+#=GF WK   Sequence_motif
 
 CP002881.1/3575344-3575358   A-ACAACGACAAGAAG
 CP002881.1/1910435-1910449   A-AUAAAAACAAGCAG

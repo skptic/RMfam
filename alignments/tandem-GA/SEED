@@ -23,6 +23,8 @@
 #=GF RT   Sequence-based identification of 3D structural modules in RNA with RMDetect.
 #=GF RA   Cruz JA, Westhof E
 #=GF RL   Nat Methods. 2011;8:513-21.
+#=GF TP   Internal Loop 
+#=GF WK   Internal_loop
 
 CR936259.1/463-495            GUCG-AGACGGAC----------------------------------------------------------------------------------------------------UGAAAACCCA---GAACGGGAU----UG
 CR936257.1/1579504-1579536    GUCG-AGACGGAC----------------------------------------------------------------------------------------------------UGAAAACCCA---GAAUAGGAU----UG
