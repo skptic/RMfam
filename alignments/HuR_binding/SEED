@@ -17,7 +17,7 @@
 #=GF RA   Dassi E, Zuccotti P, Leo S, Provenzani A, Assfalg M, D'Onofrio M, Riva P, Quattrone A
 #=GF RL   Nucleic Acids Res. 2013;
 #=GF TP   Specific Recognition Motif
-#=GF WK   RNA_specific_motif
+#=GF WK   Sequence_motif
 
 
 HuR          AUGUAU---UGUUUAUACAU
